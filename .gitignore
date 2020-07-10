@@ -1,0 +1,8 @@
+node_modules/
+*.zip
+.DS_Store
+.next
+.env
+notes.md
+build/
+out/
